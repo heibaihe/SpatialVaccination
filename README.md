@@ -1,6 +1,6 @@
 # SpatialVaccination
 
-Simulation codes accompanying the paper entiled "A spatial vaccination strategy to reduce the risk of vaccine-resistant variants" published in XXXXX were written C.
+Simulation codes (in C language) accompanying the paper entitled "A spatial vaccination strategy to reduce the risk of vaccine-resistant variants" published in XXXXX.
 
 All codes are listed as follows: 
 
